@@ -19,7 +19,7 @@ def contact(request):
         }
         print(data)
         message=("From {} /n".format('email')+data['message'])
-        send_mail(data['phonenumber'],message,data['email'],['kavinprojectsmpt@gmail.com'])
+        send_mail(data['phonenumber'],message,data['email'],['your emailid here'])
         
 
     return render(request, 'contact.html',{})
