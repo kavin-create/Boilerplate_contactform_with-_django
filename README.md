@@ -1,4 +1,4 @@
-![img]('https://github.com/kavin-create/Boilerplate_contactform_with-_django/blob/main/Screenshots/Contact_forms_with_Django.png')
+![img](https://github.com/kavin-create/Boilerplate_contactform_with-_django/blob/main/Screenshots/ContactForms_with_Django.png?raw=true')
 
 
 # Contact Form	:page_with_curl:	
